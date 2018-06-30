@@ -51,6 +51,8 @@ public class NewTest {
 	public static void launchApp() {
 		 driver.launchApp(); 
 		 System.out.println("Testing A");
+		 System.out.println("Testing B");
+		 System.out.println("Testing C");
 	}
 	
   @Test(priority=1)	

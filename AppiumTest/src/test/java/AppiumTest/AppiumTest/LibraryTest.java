@@ -25,6 +25,9 @@ public class LibraryTest {
 			String data= properties.getProperty("url");
 			System.out.println(data);
 		 driver.get(data);
+		 System.out.println("Testing A");
+		 System.out.println("Testing B");
+		 System.out.println("Testing C");
 //		 7892550529
 //		 Test@123
 		 
