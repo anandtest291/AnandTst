@@ -49,7 +49,8 @@ public class NewTest {
 	@BeforeMethod
 	
 	public static void launchApp() {
-		 driver.launchApp();  
+		 driver.launchApp(); 
+		 System.out.println("Testing");
 	}
 	
   @Test(priority=1)	
