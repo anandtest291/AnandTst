@@ -50,7 +50,7 @@ public class NewTest {
 	
 	public static void launchApp() {
 		 driver.launchApp(); 
-		 System.out.println("Testing");
+		 System.out.println("Testing A");
 	}
 	
   @Test(priority=1)	
